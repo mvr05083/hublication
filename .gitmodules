@@ -1,0 +1,3 @@
+[submodule "openshift"]
+	path = openshift
+	url = https://github.com/mvr05083/push_meteor_openshift.git
